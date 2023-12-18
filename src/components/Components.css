@@ -1,0 +1,9 @@
+.Components-page {
+    font-size: calc(10px + 2vmin);
+  font-display:inherit;
+  font-weight: bold;
+    color:darkolivegreen;
+    font-style: oblique;
+    font-weight:normal;
+    margin: 10px 10px 5px;
+  }
